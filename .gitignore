@@ -1,0 +1,6 @@
+#
+# Files and Directories to ignore
+#
+
+# ignore log files
+*.log
